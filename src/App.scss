@@ -198,7 +198,7 @@ $hoverColour: #424242;
         justify-content: space-between;
 
         div {
-          padding: 1rem;
+          padding: 0.75rem;
           background: rgb(25, 25, 25);
           width: 50%;
           margin: 1rem 0;
@@ -219,6 +219,7 @@ $hoverColour: #424242;
           &.git {
             clip-path: polygon(5% 0, 100% 0, 100% 100%, 0% 100%);
             align-items: flex-end;
+            text-align: right;
           }
 
           &:hover {
@@ -229,10 +230,10 @@ $hoverColour: #424242;
             margin: 0;
             text-transform: uppercase;
             font-weight: 600;
-            font-size: 1.125rem;
+            font-size: 0.725rem;
           }
           p {
-            font-size: 0.775rem;
+            font-size: 0.625rem;
           }
         }
       }
@@ -263,6 +264,17 @@ $hoverColour: #424242;
         p {
           display: flex;
         }
+      }
+    }
+  }
+  .ruroc-faq .section-faqs .contact-options .options {
+    div {
+      padding: 1rem;
+      h4 {
+        font-size: 1.125rem;
+      }
+      p {
+        font-size: 0.775rem;
       }
     }
   }
@@ -321,6 +333,31 @@ $hoverColour: #424242;
           font-size: 0.825rem;
           line-height: 140%;
           word-wrap: break-word;
+        }
+        .contact-options {
+          margin-top: 0.5rem;
+          h3 {
+            font-size: 0.875rem;
+          }
+          .options {
+            flex-direction: column;
+            justify-content: flex-start;
+            div {
+              width: 100%;
+              clip-path: none;
+              margin: 0.5rem 0 0 0;
+              padding: 0.5rem;
+              h4 {
+                font-size: 0.825rem;
+              }
+              p {
+                font-size: 0.65rem;
+              }
+              &.git {
+                align-items: flex-start;
+              }
+            }
+          }
         }
       }
     }
