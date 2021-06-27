@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "./img/kenny-helmet-edited.jpg",
+        "img": "kenny-helmet-edited.jpg",
         "name": "Kenny",
         "helmet": "Atlas 2.0",
         "date": "1 day ago",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "img": "./img/arwin-helmet-edited.jpg",
+        "img": "arwin-helmet-edited.jpg",
         "name": "Arwin",
         "helmet": "Atlas 2.0",
         "date": "3 day ago",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "img": "./img/arwin-helmet-edited-2.jpg",
+        "img": "arwin-helmet-edited-2.jpg",
         "name": "Johny",
         "helmet": "Atlas 2.0",
         "date": "5 day ago",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "img": "./ben-helmet-edited.jpg",
+        "img": "ben-helmet-edited.jpg",
         "name": "Ben",
         "helmet": "Atlas 2.0",
         "date": "1 day ago",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "img": "./alan-helmet-edited.jpg",
+        "img": "alan-helmet-edited.jpg",
         "name": "Alan",
         "helmet": "Atlas 2.0",
         "date": "4 day ago",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "img": "./mikey-helmet-edited.jpg",
+        "img": "mikey-helmet-edited.jpg",
         "name": "Mikey",
         "helmet": "Atlas 2.0",
         "date": "2 day ago",
@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "img": "./mickey-helmet-edited-2.jpg",
+        "img": "mickey-helmet-edited-2.jpg",
         "name": "Mickey",
         "helmet": "Atlas 2.0",
         "date": "7 day ago",
