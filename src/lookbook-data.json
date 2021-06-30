@@ -1,0 +1,484 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "lookbook-_0000_core-2.0-ironhead.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 2.0 Core",
+                "link": "atlas-2-core.html",
+                "leftPos": "40%",
+                "topPos": "20%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Airborne",
+                "link": "airborne.html",
+                "leftPos": "43%",
+                "topPos": "60%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "imgUrl": "lookbook-_0001_diablo-3.0-inferno.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 3.0 El Diablo",
+                "link": "atlas-3-el-diablo.html",
+                "leftPos": "70%",
+                "topPos": "20%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk 916 Inferno",
+                "link": "916-inferno.html",
+                "leftPos": "50%",
+                "topPos": "60%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "imgUrl": "lookbook-_0002_core-2.0-hawkeyeUV.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 2.0 Core",
+                "link": "atlas-2-core.html",
+                "leftPos": "50%",
+                "topPos": "30%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Hawkeye UV",
+                "link": "hawkeye-uv.html",
+                "leftPos": "50%",
+                "topPos": "60%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "imgUrl": "lookbook-_0003_core-berserker-predator.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Berserker 2.0 Core",
+                "link": "berserker-core.html",
+                "leftPos": "52%",
+                "topPos": "31%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Predator",
+                "link": "predator.html",
+                "leftPos": "50%",
+                "topPos": "43%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "imgUrl": "lookbook-_0004_core-berserker-predator-2.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Berserker 2.0 Core",
+                "link": "berserker-core.html",
+                "leftPos": "55%",
+                "topPos": "29%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Predator",
+                "link": "predator.html",
+                "leftPos": "55%",
+                "topPos": "55%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "imgUrl": "lookbook-_0005_carbon-2.0-916.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 2.0 Raw Carbon",
+                "link": "atlas-2-raw-carbon.html",
+                "leftPos": "35%",
+                "topPos": "29%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk 916",
+                "link": "916.html",
+                "leftPos": "75%",
+                "topPos": "45%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "imgUrl": "lookbook-_0006_carbon-3.0-knucklehead.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 3.0 Liquid Carbon",
+                "link": "atlas-3-liquid-carbon.html",
+                "leftPos": "29%",
+                "topPos": "39%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Knucklehead",
+                "link": "knucklehead.html",
+                "leftPos": "55%",
+                "topPos": "27%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "imgUrl": "lookbook-_0007_carbon-2.0-predator.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 2.0 Raw Carbon",
+                "link": "atlas-2-raw-carbon.html",
+                "leftPos": "55%",
+                "topPos": "7%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Predator",
+                "link": "predator.html",
+                "leftPos": "60%",
+                "topPos": "30%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "imgUrl": "lookbook-_0008_chrome-2.0-hawkeyeUV.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 2.0 Mercury",
+                "link": "atlas-2-mercury.html",
+                "leftPos": "45%",
+                "topPos": "42%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Hawkeye UV",
+                "link": "hawkeye-uv.html",
+                "leftPos": "60%",
+                "topPos": "25%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "imgUrl": "lookbook-_0009_core-2.0-cookiesncream.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 2.0 Core",
+                "link": "atlas-2-core.html",
+                "leftPos": "45%",
+                "topPos": "70%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Cookies n Cream",
+                "link": "cookies-n-creme.html",
+                "leftPos": "32%",
+                "topPos": "50%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "imgUrl": "lookbook-_0010_core-2.0-hawkeyeUV.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 2.0 Core",
+                "link": "atlas-2-core.html",
+                "leftPos": "36%",
+                "topPos": "63%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Hawkeye UV",
+                "link": "hawkeye-uv.html",
+                "leftPos": "52%",
+                "topPos": "40%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "imgUrl": "lookbook-_0011_core-2.0-airborne.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 2.0 Core",
+                "link": "atlas-2-core.html",
+                "leftPos": "55%",
+                "topPos": "19%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Airborne",
+                "link": "airborne.html",
+                "leftPos": "52%",
+                "topPos": "33%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "imgUrl": "lookbook-_0012_core-2.0-916inferno.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 2.0 Core",
+                "link": "atlas-2-core.html",
+                "leftPos": "25%",
+                "topPos": "75%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk 916 Inferno",
+                "link": "916-inferno.html",
+                "leftPos": "45%",
+                "topPos": "55%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "imgUrl": "lookbook-_0013_eh-predator.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Enginehawk Predator",
+                "link": "predator.html",
+                "leftPos": "50%",
+                "topPos": "50%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "imgUrl": "lookbook-_0014_eh-airborne.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Enginehawk Airborne",
+                "link": "airborne.html",
+                "leftPos": "55%",
+                "topPos": "50%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "imgUrl": "lookbook-_0015_eagle-2.0-916.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 2.0 Eagle",
+                "link": "atlas-2-eagle.html",
+                "leftPos": "52%",
+                "topPos": "26%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk 916",
+                "link": "916.html",
+                "leftPos": "52%",
+                "topPos": "65%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "imgUrl": "lookbook-_0016_cinco-3.0-predator.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 3.0 Cinco de Madness",
+                "link": "atlas-3-cinco-de-madness.html",
+                "leftPos": "55%",
+                "topPos": "30%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Predator",
+                "link": "predator.html",
+                "leftPos": "52%",
+                "topPos": "64%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "imgUrl": "lookbook-_0017_raijin-3.0-50cal.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 3.0 Raijin",
+                "link": "atlas-3-raijin.html",
+                "leftPos": "55%",
+                "topPos": "23%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk 50 cal",
+                "link": "50-cal.html",
+                "leftPos": "37%",
+                "topPos": "40%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "imgUrl": "lookbook-_0018_carbonized-inferno-3.0-50cal.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 3.0 Carbonized Inferno",
+                "link": "atlas-3-carbonized-inferno.html",
+                "leftPos": "50%",
+                "topPos": "28%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk 50 cal",
+                "link": "50-cal.html",
+                "leftPos": "32%",
+                "topPos": "60%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "imgUrl": "lookbook-_0019_eh-thermo-vest.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Enginehawk Thermo Vest",
+                "link": "thermo-vest.html",
+                "leftPos": "55%",
+                "topPos": "40%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "imgUrl": "lookbook-_0020_fujin-3.0-predator.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 3.0 Fujin",
+                "link": "atlas-3-fujin.html",
+                "leftPos": "55%",
+                "topPos": "20%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Predator",
+                "link": "predator.html",
+                "leftPos": "32%",
+                "topPos": "55%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "imgUrl": "lookbook-_0021_carbonized-inferno-3.0-ironhead.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 3.0 Carbonized Inferno",
+                "link": "atlas-3-carbonized-inferno.html",
+                "leftPos": "40%",
+                "topPos": "20%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Ironhead",
+                "link": "ironhead.html",
+                "leftPos": "36%",
+                "topPos": "36%",
+                "isItEnginehawk": true
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "imgUrl": "lookbook-_0022_3.0-lacaravera-cinco.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 3.0 La Caravera",
+                "link": "atlas-3-la-caravera.html",
+                "leftPos": "67%",
+                "topPos": "32%"
+            },
+            {
+                "id": 2,
+                "name": "Atlas 3.0 Cinco de Madness",
+                "link": "atlas-3-cinco-de-madness.html",
+                "leftPos": "36%",
+                "topPos": "40%"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "imgUrl": "lookbook-_0023_smiler-3.0-hawkeyeUV.jpg",
+        "tags": [
+            {
+                "id": 1,
+                "name": "Atlas 3.0 Smiler",
+                "link": "atlas-3-smiler.html",
+                "leftPos": "48%",
+                "topPos": "30%"
+            },
+            {
+                "id": 2,
+                "name": "Enginehawk Hawkeye UV",
+                "link": "hawkeye-uv.html",
+                "leftPos": "59%",
+                "topPos": "57%",
+                "isItEnginehawk": true
+            }
+        ]
+    }
+]
