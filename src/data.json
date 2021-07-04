@@ -15,7 +15,7 @@
         "id": 2,
         "img": "mickey-helmet-edited-2.jpg",
         "name": "Mickey",
-        "helmet": "Atlas 2.0",
+        "helmet": "Atlas 1.0",
         "date": "28 June 21",
         "description": [
             "I've actually been in two accidents with a 1.0 AND a 2.0 atlas helmet 😬. 2020 brought me some bad luck but all is well now.",
@@ -23,7 +23,6 @@
             "I hit my head with so much force that it caused permanent memory loss of the event and a few hours after, as well as minor cognitive issues and significant debilitating headaches. Despite the head trauma, I was told I was never actually unconscious which is quite the testament to the impact protection of your helmets. I'll never buy from another lid manufacturer while I ride because in two real word tests, it did its job with ease."
         ]
     },
-    
     {
         "id": 3,
         "img": "ben-helmet-edited.jpg",
@@ -52,7 +51,7 @@
     {
         "id": 5,
         "img": "mikey-helmet-edited.jpg",
-        "name": "Mikey",
+        "name": "Mickey",
         "helmet": "Atlas 2.0",
         "date": "27 June 21",
         "description": [
@@ -81,7 +80,9 @@
         "helmet": "Atlas 2.0",
         "date": "29 June 21",
         "description": [
-            "On Nov 14th 2020, my wife and I were involved in a motorcycle accident. We were stopped at a red light and proceeded when the light turned green. A car ran the red light and struck us on my motorcycle as we were turning left. The impact threw my wife and me from the motorcycle and we both sustained injuries. I suffered nine broken ribs and a broken collarbone that had to be repaired surgically. The whole accident was caught on video and at one point I was tumbling across the pavement with my head impacting the ground multiple times. I am convinced that my Ruroc helmet saved my life. I had no cuts or scrapes on my face or neck and no evidence of a concussion was discovered at the hospital. Ruroc, because of the excellent product that you have created I am still able to see my family and my wife every day. Thank you"
+            "On Nov 14th 2020, my wife and I were involved in a motorcycle accident. We were stopped at a red light and proceeded when the light turned green. A car ran the red light and struck us on my motorcycle as we were turning left. The impact threw my wife and me from the motorcycle and we both sustained injuries. I suffered nine broken ribs and a broken collarbone that had to be repaired surgically.",
+            "The whole accident was caught on video and at one point I was tumbling across the pavement with my head impacting the ground multiple times. I am convinced that my Ruroc helmet saved my life. I had no cuts or scrapes on my face or neck and no evidence of a concussion was discovered at the hospital.",
+            "Ruroc, because of the excellent product that you have created I am still able to see my family and my wife every day. Thank you"
         ]
     }
 ]
