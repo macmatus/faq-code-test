@@ -26,16 +26,6 @@
     },
     {
         "id": 3,
-        "img": "arwin-helmet-edited-2.jpg",
-        "name": "Johny",
-        "helmet": "Atlas 2.0",
-        "date": "21 June 21",
-        "description": [
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam, quo sapiente velit tempora quas veritatis sint magni eius necessitatibus, molestias soluta officia? Maiores placeat quos, saepe tempore exercitationem perferendis! Temporibus labore ipsum repellat accusantium, deserunt illum excepturi quibusdam odio quos rerum ipsa vitae. Voluptate nihil sed consequuntur ullam, corporis qui commodi sint a similique. Doloribus eos minus eaque dolorem. Distinctio, dolore laboriosam explicabo nemo atque sit sed adipisci autem, voluptatum, consequatur ea. Aperiam dolores in quibusdam placeat? Quas esse, mollitia inventore nostrum voluptate commodi hic eos officia dicta doloremque."
-        ]
-    },
-    {
-        "id": 4,
         "img": "ben-helmet-edited.jpg",
         "name": "Ben",
         "helmet": "Atlas 2.0",
@@ -49,7 +39,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 4,
         "img": "alan-helmet-edited.jpg",
         "name": "Alan",
         "helmet": "Atlas 2.0",
@@ -60,7 +50,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 5,
         "img": "mikey-helmet-edited.jpg",
         "name": "Mikey",
         "helmet": "Atlas 2.0",
@@ -72,7 +62,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 6,
         "img": "mickey-helmet-edited-2.jpg",
         "name": "Mickey",
         "helmet": "Atlas 2.0",
@@ -84,7 +74,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": 7,
         "img": "ty-helmet-edited.jpg",
         "name": "Ty",
         "helmet": "Atlas 2.0",
