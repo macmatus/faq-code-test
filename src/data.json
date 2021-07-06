@@ -13,18 +13,29 @@
     },
     {
         "id": 2,
-        "img": "mickey-helmet-edited-2.jpg",
-        "name": "Mickey",
-        "helmet": "Atlas 1.0",
-        "date": "28 June 21",
+        "img": "arwin-helmet-edited.jpg",
+        "name": "Arwin",
+        "helmet": "Atlas 2.0",
+        "date": "19 June 21",
         "description": [
-            "I've actually been in two accidents with a 1.0 AND a 2.0 atlas helmet 😬. 2020 brought me some bad luck but all is well now.",
-            "My accident back in September is the one that resulted in the attached images. It was a Wednesday and on my way home from work, maybe 10 blocks from the safety of my apartment, someone decided to turn left in front me causing me to hit the front edge of their passenger side door with a considerable amount of force. It is my sincere belief that had it not been for my atlas 2.0, I would not be here today to tell this story.",
-            "I hit my head with so much force that it caused permanent memory loss of the event and a few hours after, as well as minor cognitive issues and significant debilitating headaches. Despite the head trauma, I was told I was never actually unconscious which is quite the testament to the impact protection of your helmets. I'll never buy from another lid manufacturer while I ride because in two real word tests, it did its job with ease."
+            "Girlfriend and I were on our way home. We were on my DR650 dual sport. She was riding on the back while wearing the berserker ronin and I was wearing the shogun 2.0.",
+            "What happened: Car didn't check his blindspot before changing  lanes and cut me off and we nearly collided with them. Unfortunately the roads were a bit slick at the time. We endup up high siding, from what the witnesses saw I flew off the bike head first into the pavement, sliding on my right side.",
+            "The visor took most of the impact and luckily didn't break thanks to your guy's awesome R&D team! My girlfriend fortunately didn't take too much of a tumble since she landed on her back and onto the backpack which was luckily filled with clothes we just bought. The berserker did although take a few scratches onto its side.",
+            "Needless to say the helmets most definitely saved us from anything too major and can't thank you enough for creating a helmet that isn't just amazing to look at but also life saving! FOREVER a Ruroc wearer."
         ]
     },
     {
         "id": 3,
+        "img": "arwin-helmet-edited-2.jpg",
+        "name": "Johny",
+        "helmet": "Atlas 2.0",
+        "date": "21 June 21",
+        "description": [
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam, quo sapiente velit tempora quas veritatis sint magni eius necessitatibus, molestias soluta officia? Maiores placeat quos, saepe tempore exercitationem perferendis! Temporibus labore ipsum repellat accusantium, deserunt illum excepturi quibusdam odio quos rerum ipsa vitae. Voluptate nihil sed consequuntur ullam, corporis qui commodi sint a similique. Doloribus eos minus eaque dolorem. Distinctio, dolore laboriosam explicabo nemo atque sit sed adipisci autem, voluptatum, consequatur ea. Aperiam dolores in quibusdam placeat? Quas esse, mollitia inventore nostrum voluptate commodi hic eos officia dicta doloremque."
+        ]
+    },
+    {
+        "id": 4,
         "img": "ben-helmet-edited.jpg",
         "name": "Ben",
         "helmet": "Atlas 2.0",
@@ -38,7 +49,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 5,
         "img": "alan-helmet-edited.jpg",
         "name": "Alan",
         "helmet": "Atlas 2.0",
@@ -49,9 +60,9 @@
         ]
     },
     {
-        "id": 5,
+        "id": 6,
         "img": "mikey-helmet-edited.jpg",
-        "name": "Mickey",
+        "name": "Mikey",
         "helmet": "Atlas 2.0",
         "date": "27 June 21",
         "description": [
@@ -61,28 +72,194 @@
         ]
     },
     {
-        "id": 6,
-        "img": "arwin-helmet-edited.jpg",
-        "name": "Arwin",
-        "helmet": "Berserker",
-        "date": "19 June 21",
+        "id": 7,
+        "img": "mickey-helmet-edited-2.jpg",
+        "name": "Mickey",
+        "helmet": "Atlas 2.0",
+        "date": "28 June 21",
         "description": [
-            "Girlfriend and I were on our way home. We were on my DR650 dual sport. She was riding on the back while wearing the berserker ronin and I was wearing the shogun 2.0.",
-            "What happened: Car didn't check his blindspot before changing  lanes and cut me off and we nearly collided with them. Unfortunately the roads were a bit slick at the time. We endup up high siding, from what the witnesses saw I flew off the bike head first into the pavement, sliding on my right side.",
-            "The visor took most of the impact and luckily didn't break thanks to your guy's awesome R&D team! My girlfriend fortunately didn't take too much of a tumble since she landed on her back and onto the backpack which was luckily filled with clothes we just bought. The berserker did although take a few scratches onto its side.",
-            "Needless to say the helmets most definitely saved us from anything too major and can't thank you enough for creating a helmet that isn't just amazing to look at but also life saving! FOREVER a Ruroc wearer."
+            "I've actually been in two accidents with a 1.0 AND a 2.0 atlas helmet 😬. 2020 brought me some bad luck but all is well now.",
+            "My accident back in September is the one that resulted in the attached images. It was a Wednesday and on my way home from work, maybe 10 blocks from the safety of my apartment, someone decided to turn left in front me causing me to hit the front edge of their passenger side door with a considerable amount of force. It is my sincere belief that had it not been for my atlas 2.0, I would not be here today to tell this story.",
+            "I hit my head with so much force that it caused permanent memory loss of the event and a few hours after, as well as minor cognitive issues and significant debilitating headaches. Despite the head trauma, I was told I was never actually unconscious which is quite the testament to the impact protection of your helmets. I'll never buy from another lid manufacturer while I ride because in two real word tests, it did its job with ease."
         ]
     },
     {
-        "id": 7,
+        "id": 8,
         "img": "ty-helmet-edited.jpg",
         "name": "Ty",
         "helmet": "Atlas 2.0",
         "date": "29 June 21",
         "description": [
-            "On Nov 14th 2020, my wife and I were involved in a motorcycle accident. We were stopped at a red light and proceeded when the light turned green. A car ran the red light and struck us on my motorcycle as we were turning left. The impact threw my wife and me from the motorcycle and we both sustained injuries. I suffered nine broken ribs and a broken collarbone that had to be repaired surgically.",
-            "The whole accident was caught on video and at one point I was tumbling across the pavement with my head impacting the ground multiple times. I am convinced that my Ruroc helmet saved my life. I had no cuts or scrapes on my face or neck and no evidence of a concussion was discovered at the hospital.",
-            "Ruroc, because of the excellent product that you have created I am still able to see my family and my wife every day. Thank you"
+            "On Nov 14th 2020, my wife and I were involved in a motorcycle accident. We were stopped at a red light and proceeded when the light turned green. A car ran the red light and struck us on my motorcycle as we were turning left. The impact threw my wife and me from the motorcycle and we both sustained injuries. I suffered nine broken ribs and a broken collarbone that had to be repaired surgically. The whole accident was caught on video and at one point I was tumbling across the pavement with my head impacting the ground multiple times. I am convinced that my Ruroc helmet saved my life. I had no cuts or scrapes on my face or neck and no evidence of a concussion was discovered at the hospital. Ruroc, because of the excellent product that you have created I am still able to see my family and my wife every day. Thank you"
+        ]
+    },
+    {
+        "id": 9,
+        "img": "andreas-main-edited.jpg",
+        "name": "Andreas",
+        "helmet": "Atlas 1.0",
+        "date": "July 2019",
+        "description": [
+            "Hi Dan! Just wanna let you know how happy I am that I ordered my Ruroc Atlas Ronin from you guys. Set an alarm during the launch day to be sure I got the Ronin Limited edition and so happy I did! I was involved in an accident with my bike the otherday and the Ronin did it’s job way and beyond good.",
+            "I hit the car dead on at around 50km/h (dosen’t sound alot but it’s well enough for a 200kg bike) and I did two flips and ended up landing on my back/head. The scratches on the Ronin are barley noticable and my head is not even damaged the slightest.",
+            "The ”only” injuries I suffered are on my left leg, torn Parcel, Ligament, Ruptured hamstring and a ruptured calf muscle.",
+            "Just wanna share my story and be grateful for an amazing aroduct, Wich I unfourtanely can’t reorder since they were a limited edition ☹",
+            "Best regards Andreas Kumpumäki / Sweden"
+        ]
+    },
+    {
+        "id": 10,
+        "img": "joseph-main-edited.jpg",
+        "name": "Joseph",
+        "helmet": "Atlas 1.0",
+        "date": "May 2020",
+        "description": [
+            "Well, just joined this page today after my buddy Patrick McGlothlen realized I was wearing a first gen Ruroc atlas core in my accident Sunday evening. I don’t personally remember anything from the incident at this time, but witnesses said they believe I had to be going 100 passing through a curve on a two lane road with a speed limit between 45 and 50.",
+            "My FXDLS burnt down after impact. (It hit a telephone pole) I was life flighted to Mobile Alabama and woke up in ICU the next morning. The day after that I got up without the doctor’s and tried to walk. (I succeeded). Amazingly only some brain bleeding, 3 fractured lumbars, and lung bruising/body bruising.  They let me go after me insisting on Tuesday afternoon.",
+            "Thanks big time to Ruroc for making an amazing helmet. I’m bald so it’s incredible I don’t really even have any marks on my face or head after such a crash.  I fully stand behind this company and highly recommend them."
+        ]
+    },
+    {
+        "id": 11,
+        "img": "ga-main-edited.jpg",
+        "name": "Ga",
+        "helmet": "Atlas 1.0",
+        "date": "June 2020",
+        "description": [
+            "To all you people moaning and bitching about having to wait a little longer because a poor company didn't know there was going to be a global pandemic. Well it could be worse I waited 2 and a half months without moaning had it for 4 days then was involved in a severe accident. I was knocked unconscious for 5 minutes as I landed directly on my head, but I walked out the hospital 6 hours later with just cuts, bruises, gravel rash and a broken collar bone. And that was all thanks to my helmet so yeah it yours might have some marks in the paint, but when in comes to it this lid will save your life as it did mine. So a massive shout out and thank you to Dan Rees and all the team at Ruroc for putting their all into such an amazing product that saved my life."
+        ]
+    },
+    {
+        "id": 12,
+        "img": "michael-main-edited.jpg",
+        "name": "Michael",
+        "helmet": "Atlas 1.0",
+        "date": "June 2020",
+        "description": [
+            "Picked up my new love today! Figured it was time to 'slow down' with my brush with death last month. Thanks too Ruroc for an amazing product that saved my life so I could come home to my kids and live to ride another day!"
+        ]
+    },
+    {
+        "id": 13,
+        "img": "bruce-main-edited.jpg",
+        "name": "Bruce",
+        "helmet": "Atlas 1.0",
+        "date": "July 2020",
+        "description": [
+            "Fortunate to be alive!",
+            "I had a very serious motorcycle accident on June 27 in Okinawa, Japan. A taxi did an illegal u-turn 20ft in front of me leaving me no room to react. I was going roughly 49kmph when I hit his front panel and was catapulted over the car 30ft in the air and 60ft down the street.",
+            "I had to be aeromedically evacuated to San Diego's Balboa Navy Medical Center for treatment. I have 6 fractures in my pelvis and a compound fracture to my right humerus. 2 of 4 surgeries out of the way and on the road to recovery.",
+            "I'm posting this to tell you #IWasWearingRuroc. My wife despised the price but, was crying happy for the Protection it provided. ",
+            "I just wanted to say from the bottom of my heart. #ThankYouRuroc! For providing more than just 'A sexy looking Helmet'."
+        ]
+    },
+    {
+        "id": 14,
+        "img": "shawn-main-edited.jpg",
+        "name": "Shawn",
+        "helmet": "Atlas 1.0",
+        "date": "July 2020",
+        "description": [
+            "Just wanted to share my experience with you guys in case anyone is on the fence about ordering... This would be my 3rd week of riding if my bike didn’t get totaled last Friday.",
+            "My 2 friends and I (all riding) were taking a day trip to the beach for Independence Day when a speeding car passes me in the right lane. Before he could pass me and my friends who were ahead of me he started to come up on a parked car in his lane. Unfortunately rather than slow down (which he had ample room to even with poor brakes) he chose to swerve into my lane, immediately knocking me off my sportster sending me across the double yellow lines. My helmet hit another vehicle traveling the opposite direction before I hit the ground and ultimately came to a stop after rolling a bit. I was going the speed limit which was 35 at the time and I’m sure the vehicle I flew into was doing about the same. ",
+            "Absolutely no damage to my head whatsoever. I went to the hospital where they performed cat-scans and and x-rays and I didn’t have so much as a head ache. The rest of my body didn’t get so lucky but I’m sure any other helmet on me and I would have had atleast a minor concussion. The helmet probably saved my life."
+        ]
+    },
+    {
+        "id": 15,
+        "img": "kevin-main-edited.jpg",
+        "name": "Kevin",
+        "helmet": "Atlas 1.0",
+        "date": "August 2020",
+        "description": [
+            "Crashed my 5-week-old CB500x in a ditch yesterday night.",
+            "Got caught by gravel & wet leaves, tried to steer away from it but no luck. Couldn't break anymore when I hit the grass next to the road, went face-first at about 50-60km/h straight into the ditch with about 30cm water in it. The bike turned 180 degrees and landed on top of me. The helmet filled up quickly with water, luckily I was able to get my head above the water on time. I got stuck with my left leg underneath the crash bars of the bike and wasn't able to lift it up myself. My phone flew off the quad lock mount, so I had to scream my way to help for about 5-10 minutes after a car stopped and helped me get the bike off my leg. I consider myself lucky to walk away from this accident with only a sore leg and a body full of bruises. It could've ended much worse if the water was a few centimeters higher or hit a tree that was right half a meter to the left. Everything was all-risk insured, so I should be good material-wise too. Checked the helmet but couldn't find any real damage nor a crack in the inner shell (it does stink a lot tho). Will send a request to Ruroc if it qualifies for the crash replacement that I bought with it. Stay safe out there guys",
+            "Did many exercise drills on my bike on- and offroad with no harm whatsoever, only to crash on some gravel & leaves on a tar road "
+        ]
+    },
+    {
+        "id": 16,
+        "img": "robert-main-edited.jpg",
+        "name": "Robert",
+        "helmet": "Atlas 1.0",
+        "date": "August 2020",
+        "description": [
+            "Ruroc definitely saved my life this month. I got rear ended by another biker. I was going 50 on the freeway in traffic and another biker rear ended me at about 80 mph, we both went flying and his helmet cracked and pieces fell off. My ruroc held strong as I cartwheels across 4 lanes of traffic. THANKS RUROC"
+        ]
+    },
+    {
+        "id": 17,
+        "img": "eise-main-edited.jpg",
+        "name": "Eise",
+        "helmet": "Atlas 2.0",
+        "date": "September 2020",
+        "description": [
+            "Well yesterday afternoon didn’t end well. Luckily just some minor scuffs. Protective gear and helmet did it’s job perfectly. Bummer I only got to enjoy it for one month. But big shout out to the team at Ruroc this lid saved my life."
+        ]
+    },
+    {
+        "id": 18,
+        "img": "zhong-main-edited.jpg",
+        "name": "Zhong",
+        "helmet": "Atlas 2.0",
+        "date": "December 2020",
+        "description": [
+            "I had a serious accident two days ago. A car came crashing at me from behind at 140+km/hr on a highway sending me flying towards the concrete. My face landed first and my body slides for some distances.",
+            "Guessed I wouldn't be typing here if I hadn't my Atlas helmet on. Besides my head, almost every other part of body is torn.",
+            "Couldn't sleep for 2 days because of pain but glad Ruroc saved my life and face."
+        ]
+    },
+    {
+        "id": 19,
+        "img": "paul-main-edited.jpg",
+        "name": "Paul",
+        "helmet": "Atlas 2.0",
+        "date": "March 2021",
+        "description": [
+            "Well my El Diablo almost assuredly saved my life last night. It was raining, very slick, went into a right hand turn and the back of my 2018 Roadglide Special started coming around, I was going very slow (about 10 mph) so I pretty much thought “well shit, but no big deal”. I was pivoting on the front tire and I had both feet down still going slow but seemed like it was building momentum. All of a sudden it caught traction and slammed me down highside. I ended up bouncing the side of my head off the curb which just so happened to be the gutter. Then my head hit the street and the top of the opening of the gutter was in my visor while my bike is still pushing me, trying to shove me into the gutter head first. Neck is hurt, back is hurt, shoulder is hurt, I have a pounding headache and hyper extended my right thumb but I’m pretty positive, even with as slow as I was going my Atlas saved my life. I’m pretty positive any decent helmet would have stood up to that impact but I usually don’t wear any of my other helmets, when I do wear a helmet, it’s my El Diablo that I grab."
+        ]
+    },
+    {
+        "id": 20,
+        "img": "deadpool-main-edited.jpg",
+        "name": "Deadpool",
+        "helmet": "Atlas 2.0",
+        "date": "May 2021",
+        "description": [
+            "Ruroc thank you.",
+            "Hit a guard rail apparently at 120ish kilometres per hour And then my body catipolted into a tree at around 100kph, 10m up in the air.",
+            "The tree saved me from falling down a 20m cliff to a rocky bottom n  my helmet did its job and got me home to my kids...",
+            "Barely a scratch on it..."
+        ]
+    },
+    {
+        "id": 21,
+        "img": "angel-main-edited.jpg",
+        "name": "Angel",
+        "helmet": "Atlas 1.0",
+        "date": "June 2021",
+        "description": [
+            "New member here. Preordered and got the first edition of the Core helmet. Used it daily for 1yr until this happened. I woke up in the ambulance, lost conciousness for a while and memory, but it was only temporary. This helmet saved my life, I was able to walk out of the hospital the same day. Will definetly be getting the Mercury V.2 when I save up a little more. Cheers from Texas."
+        ]
+    },
+    {
+        "id": 22,
+        "img": "christopher-main-edited.jpg",
+        "name": "Christopher",
+        "helmet": "Atlas 2.0",
+        "date": "June 2021",
+        "description": [
+            "These guys helmet saved my life they're the bomb and getting replacement was relatively easy."
+        ]
+    },
+    {
+        "id": 23,
+        "img": "david-main-edited.jpg",
+        "name": "David",
+        "helmet": "Atlas 2.0",
+        "date": "June 2021",
+        "description": [
+            "Had the unfortunate happen yesterday and low-sided going about 35mph at a round-about. Crash protection saved the bike for the most part and is keeping the cost down from fixing her up. ALWAYS ALWAYS WEAR YOUR GEAR! It saved my life yesterday and I want to thank RUROC for making a great helmet. I have crash protection on the helmet so not sure where to go from here. Daisy Jones or Archie Mann can you guys guide me on what the steps I need to take? Heading to hospital to get X-ray on shoulder as I think my collar bone is broken and have some rash on my knee . Pictures provided below."
         ]
     }
 ]
