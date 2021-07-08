@@ -10,6 +10,7 @@
             "andreas-5-edited.jpg"
         ],
         "postLink": "",
+        "avatar": "",
         "name": "Andreas",
         "helmet": "Atlas 1.0",
         "date": "July 2019",
@@ -31,6 +32,7 @@
             "joseph-edited-4.jpg"
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/posts/2633432583644295",
+        "avatar": "joseph-avatar",
         "name": "Joseph",
         "helmet": "Atlas 1.0",
         "date": "May 2020",
@@ -46,6 +48,8 @@
             "kenny-helmet-edited.jpg"
         ],
         "name": "Kenny",
+        "postLink": "",
+        "avatar": "",
         "helmet": "Atlas 2.0",
         "date": "2020",
         "description": [
@@ -60,6 +64,8 @@
             "arwin-helmet-edited.jpg"
         ],
         "name": "Arwin",
+        "avatar": "",
+        "postLink": "",
         "helmet": "Berserker",
         "date": "2020",
         "description": [
@@ -75,6 +81,8 @@
             "ben-helmet-edited.jpg"
         ],
         "name": "Ben",
+        "avatar": "",
+        "postLink": "",
         "helmet": "Atlas 2.0",
         "date": "2020",
         "description": [
@@ -91,6 +99,8 @@
             "alan-helmet-edited.jpg"
         ],
         "name": "Alan",
+        "postLink": "",
+        "avatar": "",
         "helmet": "Atlas 2.0",
         "date": "2020",
         "description": [
@@ -104,6 +114,8 @@
             "mikey-helmet-edited.jpg"
         ],
         "name": "Mickey",
+        "avatar": "",
+        "postLink": "",
         "helmet": "Atlas 2.0",
         "date": "May 2020",
         "description": [
@@ -122,6 +134,7 @@
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/posts/2643533512634202",
         "name": "Ga",
+        "avatar": "ga-avatar.jpg",
         "helmet": "Atlas 2.0",
         "date": "June 2020",
         "description": [
@@ -138,6 +151,7 @@
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/posts/2654500784870808",
         "name": "Michael",
+        "avatar": "michael-avatar.jpg",
         "helmet": "Berserker",
         "date": "June 2020",
         "description": [
@@ -156,6 +170,7 @@
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/posts/2684652921855594",
         "name": "Bruce",
+        "avatar": "bruce-avatar.jpg",
         "helmet": "Atlas 1.0",
         "date": "July 2020",
         "description": [
@@ -173,6 +188,7 @@
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/posts/2676105062710380",
         "name": "Shawn",
+        "avatar": "shawn-avatar.jpg",
         "helmet": "Atlas 2.0",
         "date": "July 2020",
         "description": [
@@ -190,6 +206,7 @@
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/posts/2708613506126202",
         "name": "Kevin",
+        "avatar": "kevin-avatar.jpg",
         "helmet": "Atlas 1.0",
         "date": "August 2020",
         "description": [
@@ -205,6 +222,7 @@
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/posts/2722799028040983",
         "name": "Robert",
+        "avatar": "robert-avatar.jpg",
         "helmet": "Atlas 2.0",
         "date": "August 2020",
         "description": [
@@ -221,6 +239,7 @@
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/posts/2741191796201706",
         "name": "Eise",
+        "avatar": "eise-avatar.jpg",
         "helmet": "Atlas 2.0",
         "date": "September 2020",
         "description": [
@@ -231,6 +250,8 @@
         "id": 15,
         "images": ["mickey-helmet-edited-2.jpg"],
         "name": "Mickey",
+        "avatar": "",
+        "postLink": "",
         "helmet": "Atlas 1.0",
         "date": "September 2020",
         "description": [
@@ -244,6 +265,7 @@
         "images": ["ty-helmet-edited.jpg"],
         "postLink": "https://youtu.be/wxFy6gCrDHM",
         "name": "Ty",
+        "avatar": "ty-avatar.jpg",
         "helmet": "Atlas 2.0",
         "date": "November 2020",
         "description": [
@@ -260,6 +282,7 @@
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/posts/2818725491781669/",
         "name": "Zhong",
+        "avatar": "zhong-avatar.jpg",
         "helmet": "Atlas 2.0",
         "date": "December 2020",
         "description": [
@@ -277,6 +300,7 @@
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/posts/2899804857007065",
         "name": "Paul",
+        "avatar": "paul-avatar.jpg",
         "helmet": "Atlas 2.0",
         "date": "March 2021",
         "description": [
@@ -294,6 +318,7 @@
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/permalink/2943225975998286",
         "name": "Deadpool",
+        "avatar": "deadpool-avatar.jpg",
         "helmet": "Atlas 2.0",
         "date": "May 2021",
         "description": [
@@ -310,6 +335,8 @@
             "angel-edited-1.jpg"
         ],
         "name": "Angel",
+        "postLink": "",
+        "avatar": "",
         "helmet": "Atlas 1.0",
         "date": "June 2021",
         "description": [
@@ -326,6 +353,7 @@
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/posts/2982813672039516",
         "name": "Christopher",
+        "avatar": "christopher-avatar.jpg",
         "helmet": "Atlas 2.0",
         "date": "June 2021",
         "description": [
@@ -343,6 +371,7 @@
         ],
         "postLink": "https://www.facebook.com/groups/2476438356010386/posts/2967692613551622",
         "name": "David",
+        "avatar": "david-avatar.jpg",
         "helmet": "Atlas 2.0",
         "date": "June 2021",
         "description": [
