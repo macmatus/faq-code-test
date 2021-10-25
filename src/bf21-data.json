@@ -26,5 +26,12 @@
         "description": "Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
         "sku": false,
         "skuPositive": false
+    },
+    {
+        "image": "https://m2-staging-ruroc.freetls.fastly.net/media/catalog/product/e/c/ecom-portrait-resize-93.jpg",
+        "title": "The Hackers Have returned",
+        "description": "Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "sku": "RR",
+        "skuPositive": true
     }
 ]
