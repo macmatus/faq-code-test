@@ -33,5 +33,12 @@
         "description": "Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
         "sku": "RR",
         "skuPositive": true
+    },
+    {
+        "image": false,
+        "title": "Ruroc helmet prices are in a free-for-all",
+        "description": "Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy",
+        "sku": false,
+        "skuPositive": false
     }
 ]
